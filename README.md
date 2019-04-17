@@ -1,12 +1,11 @@
-#YmShop
+项目介绍
 ---
 
- 源码学院双十一电商系统是一套基于Dubbo的大型分布式、高可用电商平台，可用于互联网电子商务、企业电子商务、互联网医疗、以及大型互联网门户等系统。
+Java分布式电商平台一套基于Dubbo的大型分布式、高可用电商平台，可用于互联网电子商务、企业电子商务、互联网医疗、以及大型互联网门户等系统。
    
-## YmShop技术选型
-技术选型如下:
+## 技术选型
 ### 后端技术
-* 核心框架: Spring Framework
+* 核心框架: Spring Framework、RocketMq、分布式事务、支付、秒杀、Redis集群 、监控
 * 分布式框架：Dubbo、Redis、Zookeeper
 * 数据库访问: Mybatis、Sharding-jdbc
 * 视图框架: Spring MVC
@@ -16,6 +15,16 @@
 * 其他组件: commons-io,commons-fileupload,commons-beanutils,jackson,pinyin4j,aliyun,alipay,commons-lang
 ### 技术交流
 QQ群：940577921（备注：11）
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1c0d93672d39f851223d8ca833ea764d809c3bd15000acb1052d65d89ceeb3e3">点击进群</a>
+
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/1.png "shop.png")
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/2.png "shop.png")
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/3.png "shop.png")
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/4.png "shop.png")
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/5.png "shop.png")
+项目问题加我微信或者加群咨询：
+![shop](https://gitee.com/ym-monkey/java-shop/raw/master/img/6.png "shop.png")
+
 
 ### 前端技术
 * JS框架： jquery1.9
@@ -37,7 +46,7 @@ QQ群：940577921（备注：11）
 
 
 <div>
-    				<h4 style="font-weight: 400px;"><span class="glyphicon glyphicon-info-sign"></span>&nbsp;&nbsp;tlshop系统主要特性：</h4>
+    				<h4 style="font-weight: 400px;"><span class="glyphicon glyphicon-info-sign"></span>&nbsp;&nbsp;系统主要特性：</h4>
 					<ul style="margin-left: 0px;-webkit-padding-start: 10px;">
 						<li class="tlshop_item "><span>支持多种前台样式，可以方便的在后台切换。</span></li>
 						<li class="tlshop_item "><span>支持大部分配置信息后台管理，减少修改配置文件造成的问题和不必要的麻烦。</span></li>
